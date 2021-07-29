@@ -36,8 +36,8 @@ A number of classification models were built in Python. A k-Nearest-Neighbors mo
         - Correlations between metric predictors
         - Relationship between metric and categorical predictors
     - further possible questions
-            - Are women with myocardial infarction more frequently asymptomatic than men?
-            - Do elevated blood pressure, blood sugar and cholesterol occur together more often?
+        - Are women with myocardial infarction more frequently asymptomatic than men?
+        - Do elevated blood pressure, blood sugar and cholesterol occur together more often?
 <br>
 
 - Preprocessing
